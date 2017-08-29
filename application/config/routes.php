@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "Conthtmltablas";
+$route['default_controller'] = "Contformulario";
 $route['404_override'] = '';
 
 
