@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "Contformulario";
+$route['default_controller'] = "Cplantilla";
 $route['404_override'] = '';
 
 
